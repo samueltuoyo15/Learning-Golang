@@ -1,0 +1,1 @@
+// go primitive data types ==> integers, floating points, booleans, complex numbers and strings 
